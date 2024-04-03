@@ -13,6 +13,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://bug-free-space-dollop-647jq9jq5vqf57p5-5173.app.github.dev",
+      "https://cookie-setup.netlify.app",
     ],
     credentials: true,
   })
